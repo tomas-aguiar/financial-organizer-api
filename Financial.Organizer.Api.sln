@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Financial.Organizer.Api", "Financial.Organizer.Api\Financial.Organizer.Api.csproj", "{BBB3A1D9-F5CD-4D35-85F6-ECBFE3B4F45B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{F55C8A6F-42A0-45B3-8CD8-30F9169AF7EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1Financial.Organizer.Api.Test", "TestProject1Financial.Organizer.Api.Test\TestProject1Financial.Organizer.Api.Test.csproj", "{74071252-BC2C-4904-A034-7835D74E9DB7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{B00CB501-E907-452C-A989-ECD3B0E676D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBB3A1D9-F5CD-4D35-85F6-ECBFE3B4F45B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBB3A1D9-F5CD-4D35-85F6-ECBFE3B4F45B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBB3A1D9-F5CD-4D35-85F6-ECBFE3B4F45B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBB3A1D9-F5CD-4D35-85F6-ECBFE3B4F45B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74071252-BC2C-4904-A034-7835D74E9DB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74071252-BC2C-4904-A034-7835D74E9DB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74071252-BC2C-4904-A034-7835D74E9DB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74071252-BC2C-4904-A034-7835D74E9DB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BBB3A1D9-F5CD-4D35-85F6-ECBFE3B4F45B} = {F55C8A6F-42A0-45B3-8CD8-30F9169AF7EA}
+		{74071252-BC2C-4904-A034-7835D74E9DB7} = {B00CB501-E907-452C-A989-ECD3B0E676D2}
+	EndGlobalSection
+EndGlobal
